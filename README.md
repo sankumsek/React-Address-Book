@@ -1,7 +1,6 @@
-## Contact-Manager
+## Address Book
 
-This is a simple Contact Manager created as a practice with Facebook's Flux architecture and using React for UI components. Feel free to fork and play around with it.
-
+This is a sample Address Book created as a practice with Facebook's Flux architecture and using React for UI components. Feel free to fork and play around with it.
 
 ## Quickstart
 
