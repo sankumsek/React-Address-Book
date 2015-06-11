@@ -1,4 +1,4 @@
-## Address Book
+## Address Book Manager
 
 This is a sample Address Book created as a practice with Facebook's Flux architecture and using React for UI components. Feel free to fork and play around with it.
 
