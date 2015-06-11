@@ -82,39 +82,39 @@ var CMApp = React.createClass({
     var contacts = [
             {
               id: 1,
-              name : 'Terrence S. Hatfield',
+              name : 'Jim Halpert',
               phone: '651-603-1723',
-              email: 'TerrenceSHatfield@rhyta.com'
+              email: 'jimmyh@dundermifflin.com'
             },
             {
               id: 2,
-              name : 'Chris M. Manning',
+              name : 'Dwight Schrute',
               phone: '513-307-5859',
-              email: 'ChrisMManning@dayrep.com'
+              email: 'assistantoassistant@dundermifflin.com'
             },
             {
               id: 3,
-              name : 'Ricky M. Digiacomo',
+              name : 'Creed Bratton',
               phone: '918-774-0199',
-              email: 'RickyMDigiacomo@teleworm.us'
+              email: 'grassroots@dundermifflin.com'
             },
             {
               id: 4,
-              name : 'Michael K. Bayne',
+              name : 'Michael Scott',
               phone: '702-989-5145',
-              email: 'MichaelKBayne@rhyta.com'
+              email: 'tobysucks@dundermifflin.com'
             },
             {
               id: 5,
-              name : 'John I. Wilson',
+              name : 'Andy Dwyer',
               phone: '318-292-6700',
-              email: 'JohnIWilson@dayrep.com'
+              email: 'burtmaclin@fbi.gov'
             },
             {
               id: 6,
-              name : 'Rodolfo P. Robinett',
+              name : 'Andrew Wagner',
               phone: '803-557-9815',
-              email: 'RodolfoPRobinett@jourrapide.com'
+              email: 'andrew@oportun.com'
             }
           ];
 
